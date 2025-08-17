@@ -14,9 +14,6 @@ That diagonal represents the **direction of maximum variance**—the axis along 
 PCA asks:  
 👉 “Which directions capture most of the spread (variance) of the data?”
 
-### Example Figure
-
-![PCA Example](images/pca.png)  
 *The diagonal direction represents the principal component—the direction of maximum variance.*
 
 ---
