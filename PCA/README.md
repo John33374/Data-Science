@@ -115,7 +115,7 @@ This rotation decorrelates the data → covariance in new basis is diagonal ($\L
 
 ---
 
-## 5. Example (Visual in Your Head)
+## 5. Example (Visual)
 
 Suppose data is elongated along line $y = x$.
 
@@ -145,7 +145,7 @@ So PCA says: project onto $[1,1]$ → reduce from 2D to 1D while keeping almost 
 ## 6. Summary (Geometric Intuition)
 
 
-![PCA Example](/images/pca.png)  
+![PCA Example](/images/Pca.png)  
 *The diagonal direction represents the principal component—the direction of maximum variance.*
 
 1. Covariance matrix tells us how data is spread  
