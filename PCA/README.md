@@ -114,14 +114,24 @@ This rotation decorrelates the data → covariance in new basis is diagonal ($\L
 
 ## 5. Example (Visual)
 
+Suppose a set of data X:
+
+$$
+X = \begin{bmatrix}
+X1.1 & X1.2 \\
+X2.1 & X2.2
+\end{bmatrix}
+$$
+
+
 Suppose data is elongated along line $y = x$.
 
 Covariance matrix might look like:
 
 $$
 C = \begin{bmatrix}
-3 & 2.9 \\
-2.9 & 3
+2 & 2 \\
+1 & 3
 \end{bmatrix}
 $$
 
