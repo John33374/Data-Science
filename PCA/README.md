@@ -130,8 +130,8 @@ Covariance matrix might look like:
 
 $$
 C = \begin{bmatrix}
-2 & 2 \\
-1 & 3
+3 & 2.9 \\
+2.9 & 3
 \end{bmatrix}
 $$
 
